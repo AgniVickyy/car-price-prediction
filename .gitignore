@@ -1,0 +1,14 @@
+# Data — too large for GitHub (141 MB > 100 MB limit)
+*.csv
+
+# Environments & caches
+.venv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Keep the small trained artifact so the repo is deployable as-is
+!model/car_price_pipeline.pkl
+
+# OS
+.DS_Store

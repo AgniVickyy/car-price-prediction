@@ -1,0 +1,8 @@
+*.csv
+*.ipynb
+*.pkl
+!model/car_price_pipeline.pkl
+tests/
+model/metrics.json
+__pycache__/
+.git/

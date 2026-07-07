@@ -1,0 +1,16 @@
+{
+  "MAE": 358884.74631770106,
+  "RMSE": 647153.7475074374,
+  "R2": 0.6807582222656419,
+  "n_train": 799951,
+  "n_test": 199988,
+  "features": [
+    "Brand",
+    "Model",
+    "Fuel_Type",
+    "Transmission",
+    "Owner_Type",
+    "Year",
+    "Kms_Driven"
+  ]
+}
