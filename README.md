@@ -1,4 +1,4 @@
-# Car Price Prediction — Production
+# Car Price Prediction
 
 Predicts used-car prices from 7 features via a single sklearn pipeline served by Flask.
 
